@@ -1,3 +1,4 @@
+# Author : Abhinav Garg.
 stratfiedSampling <- function(d, train.size, valid.size){
   if(train.size<1 & valid.size<1)
   
